@@ -1,2 +1,2 @@
 # training-repo
-this is repository is for training purpose
+this repository is for training purpose
